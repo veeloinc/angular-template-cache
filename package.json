@@ -1,18 +1,19 @@
 {
-  "name": "veelo-import-glob",
-  "version": "1.5.0",
-  "description": "ES6 import with glob patterns (preloader for Webpack)",
+  "name": "angular-template-cache",
+  "version": "1.0.0",
+  "description": "Load html templates with glob patterns and add them to Angular template cache (preloader for Webpack)",
   "license": "MIT",
   "main": "index.js",
   "author": {
-    "name": "Terpil Jenya",
-    "url": "https://github.com/terpiljenya"
+    "name": "Veelo inc",
+    "url": "https://github.com/veeloinc"
   },
   "keywords": [
     "webpack",
     "loader",
     "glob",
-    "es6"
+    "es6",
+    "angularjs"
   ],
   "dependencies": {
     "glob": "^5.0.13"
@@ -28,6 +29,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/terpiljenya/import-glob"
+    "url": "git+https://github.com/veeloinc/angular-template-cache"
   }
 }
